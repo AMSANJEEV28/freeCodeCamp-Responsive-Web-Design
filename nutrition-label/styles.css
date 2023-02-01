@@ -7,7 +7,7 @@ html {
 }
 
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 .label {
@@ -20,7 +20,7 @@ body {
 header h1 {
   text-align: center;
   margin: -4px 0;
-  letter-spacing: 0.15px
+  letter-spacing: 0.15px;
 }
 
 p {
@@ -42,7 +42,8 @@ p {
   height: 10px;
 }
 
-.large, .medium {
+.large,
+.medium {
   background-color: black;
   border: 0;
 }
@@ -85,3 +86,17 @@ p {
   margin-left: 1em;
 }
 
+.double-indent {
+  margin-left: 2em;
+}
+
+.daily-value p:not(.no-divider) {
+  border-bottom: 1px solid #888989;
+}
+
+.note {
+  font-size: 0.6rem;
+  margin: 5px 0;
+  padding: 0 8px 0 8px;
+  text-indent: -8px;
+}
