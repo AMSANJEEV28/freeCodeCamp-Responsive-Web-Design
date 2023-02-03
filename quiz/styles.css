@@ -30,7 +30,7 @@ nav {
   height: 50px;
 }
 
-nav > ul {
+nav>ul {
   display: flex;
   justify-content: space-evenly;
 }
