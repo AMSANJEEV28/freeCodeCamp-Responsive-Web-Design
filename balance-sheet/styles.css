@@ -90,4 +90,24 @@ span[class~="sr-only"] {
     left: 0.5rem;
   }
   
+  tbody td {
+    width: 100vw;
+    min-width: 4rem;
+    max-width: 4rem;
+  }
+  
+  tbody th {
+    width: calc(100% - 12rem);
+  }
+  
+  tr[class="total"] {
+    border-bottom: 4px double #0a0a23;
+    font-weight: bold;
+  }
+  
+  tr[class="total"] th {
+    text-align: left;
+    padding: 0.5rem 0 0.25rem 0.5rem;
+  }
+  
   
