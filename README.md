@@ -6,6 +6,8 @@ First, build a cat photo app to learn the basics of HTML and CSS. Later, learn m
 
 Finally, learn how to make webpages that respond to different screen sizes by building a photo gallery with Flexbox, and a magazine article layout with CSS Grid.
 
+## In this repo. _____________________________________________________________________________
+
 Learn HTML by Building a Cat Photo App
 
 Learn Basic CSS by Building a Cafe Menu
