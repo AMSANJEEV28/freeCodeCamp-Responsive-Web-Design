@@ -28,11 +28,22 @@ body {
     top: 225px;
   }
   
+  .sun {
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    position: absolute;
+    border-radius: 50%;
+    top: -75px;
+    right: -75px;
+  }
+  
   .penguin {
     width: 300px;
     height: 300px;
     margin: auto;
     margin-top: 75px;
+  
   }
   
   .ground {
