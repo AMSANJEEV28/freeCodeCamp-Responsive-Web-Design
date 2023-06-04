@@ -1,6 +1,10 @@
 # freecodecamp
 ## Revision of HTML-CSS
 
+
+![FreeCodeCamp](https://github.com/AMSANJEEV28/freecodecamp-Responsive-Web-Design/assets/81654437/7f0eeaf5-1afe-47a3-942b-f11e1a8a6d2f)
+
+
 HTML (Hypertext Markup Language) for content, and CSS (Cascading Style Sheets) for design.
 First, build a cat photo app to learn the basics of HTML and CSS. Later, learn modern techniques like CSS variables by building a penguin, and best practices for accessibility by building a quiz site.
 
